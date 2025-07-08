@@ -1,6 +1,6 @@
 // function to mock a database connection
 
-//mongodb+srv://admin:password321@cluster0.mkft9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 import mongoose from 'mongoose';
 
 const DB_USER = process.env.DB_USER;
